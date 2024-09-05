@@ -7,13 +7,13 @@ faker = Faker('pt-br')
 def gera_dados():
     dados_pessoas = []
 
-    for _ in range(10):
-        nome = faker.name()
-        cpf = faker.cpf()
+    for _ in range(1000):
+        nome = faker.name() if random.random() > 0.08 else None
+        cpf = faker.cpf() if random.random() > 0.08 else None
         idade = random.randint(5, 19)
-        data = faker.date_of_birth(minimum_age=idade, maximum_age=idade).strftime('%d/%m/%Y')
-        endereco = faker.address()
-        estado = faker.state()
+        data = faker.date_of_birth(minimum_age=idade, maximum_age=idade).strftime('%d/%m/%Y') if random.random() > 0.08 else None
+        endereco = faker.address() if random.random() > 0.08 else None
+        estado = faker.state() if random.random() > 0.08 else None
         pais = 'Brasil'
 
         pessoa = {'nome':nome,
@@ -25,7 +25,7 @@ def gera_dados():
                   'pais':pais}
 
         dados_pessoas.append(pessoa)
-        return dados_pessoas
+    return dados_pessoas
 
 df_pessoas = pd.DataFrame(gera_dados())
 
@@ -34,4 +34,6 @@ pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
 pd.set_option('display.width', None)
 
-df_pessoas.to_csv('Cliente_csv')
+print(df_pessoas.to_string())
+
+df_pessoas.to_csv('Cliente_csv', index=False)
