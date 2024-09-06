@@ -20,7 +20,7 @@ vila jardim alvorada
 Maria Clara Viana,423.015.976-52,7,2017-02-21,"lago azevedo, 7
 tupi a
 24326124 rezende / ma",tocantins
-Aurora Araújo,457.962.310-06,14,2009-09-17,Endereço não informado,maranhão
+Aurora Araújo,457.962.310-06,14,2009-09-17,Endereço inválido,maranhão
 Cecilia Camargo,562.934.701-25,7,2016-10-09,"setor da rosa, 712
 carlos prates
 92862-237 martins / pe",piauí
@@ -48,8 +48,8 @@ alto dos pinheiros
 Raul Brito,907.643.125-61,9,2014-11-24,"condomínio peixoto, 81
 vila santo antônio barroquinha
 92753084 peixoto / al",espírito santo
-Gabriela Da Cunha,754.012.986-76,5,2019-04-14,Endereço não informado,paraná
-,510.936.472-99,16,,Endereço não informado,distrito federal
+Gabriela Da Cunha,754.012.986-76,5,2019-04-14,Endereço inválido,paraná
+,510.936.472-99,16,,Endereço inválido,distrito federal
 Sr. Enrico Rodrigues,590.432.786-29,14,2010-08-16,"trevo sales, 62
 jardim américa
 31676-213 da paz do sul / rr",são paulo
@@ -62,8 +62,8 @@ vila barragem santa lúcia
 Mariana Marques,697.154.083-20,18,2006-07-29,"jardim bella da mota, 14
 vera cruz
 43319008 barros do norte / es",sergipe
-Dom Da Conceição,350.274.198-05,18,2006-02-22,Endereço não informado,piauí
-Maysa Novais,671.549.280-85,6,2018-01-27,Endereço não informado,pernambuco
+Dom Da Conceição,350.274.198-05,18,2006-02-22,Endereço inválido,piauí
+Maysa Novais,671.549.280-85,6,2018-01-27,Endereço inválido,pernambuco
 Dr. Daniel Da Paz,409.875.126-76,5,2019-01-13,"quadra de silva, 65
 belvedere
 40804994 machado da praia / se",minas gerais
@@ -76,7 +76,7 @@ vila novo são lucas
 Dr. Arthur Miguel Farias,046.173.958-57,10,2014-06-10,"morro de ramos, 54
 maria tereza
 11579344 araújo alegre / pi",paraíba
-Dr. Guilherme Monteiro,287.149.530-05,16,2008-03-03,Endereço não informado,minas gerais
+Dr. Guilherme Monteiro,287.149.530-05,16,2008-03-03,Endereço inválido,minas gerais
 Noah Da Rocha,934.065.271-16,13,2010-10-30,"vale de sales, 63
 mangabeiras
 39697-343 ribeiro / go",roraima
@@ -125,11 +125,11 @@ jardim leblon
 Ísis Casa Grande,312.958.674-19,9,,"travessa davi miguel vieira, 166
 capitão eduardo
 86296-121 dias / rn",goiás
-Srta. Marcela Teixeira,842.063.175-26,13,2010-11-23,Endereço não informado,rio grande do norte
+Srta. Marcela Teixeira,842.063.175-26,13,2010-11-23,Endereço inválido,rio grande do norte
 Anthony Gabriel Aparecida,014.329.857-79,15,2009-01-30,"avenida macedo, 85
 vila novo são lucas
 72096430 sales / pr",paraíba
-Larissa Sousa,769.481.253-28,14,2010-06-16,Endereço não informado,são paulo
+Larissa Sousa,769.481.253-28,14,2010-06-16,Endereço inválido,são paulo
 Emanuella Rios,683.950.271-68,12,2012-06-24,"lago almeida, 11
 paquetá
 16633-918 pires / rj",acre
@@ -193,17 +193,17 @@ leonina
 Eduarda Leão,723.084.691-96,11,2013-08-11,"recanto benicio freitas, 1
 ouro minas
 48194496 moura / rj",são paulo
-Henry Gabriel Macedo,763.028.514-08,5,2019-08-01,Endereço não informado,acre
-Olívia Duarte,176.892.504-67,9,2014-12-05,Endereço não informado,pará
-Dra. Eduarda Da Luz,761.859.034-66,16,2008-08-21,Endereço não informado,Desconhecido
+Henry Gabriel Macedo,763.028.514-08,5,2019-08-01,Endereço inválido,acre
+Olívia Duarte,176.892.504-67,9,2014-12-05,Endereço inválido,pará
+Dra. Eduarda Da Luz,761.859.034-66,16,2008-08-21,Endereço inválido,Desconhecido
 Helena Vasconcelos,734.985.261-46,11,2012-09-23,"fazenda de machado
 madre gertrudes
 81550207 macedo / ro",goiás
 José Duarte,048.563.219-51,14,2010-02-25,"viaduto de sales, 40
 santa efigênia
 16392682 casa grande das pedras / mg",alagoas
-Davi Câmara,398.162.704-04,15,2008-12-11,Endereço não informado,Desconhecido
-Dra. Sarah Guerra,380.761.954-20,7,2016-09-10,Endereço não informado,maranhão
+Davi Câmara,398.162.704-04,15,2008-12-11,Endereço inválido,Desconhecido
+Dra. Sarah Guerra,380.761.954-20,7,2016-09-10,Endereço inválido,maranhão
 Olivia Santos,186.702.934-04,16,2008-07-02,"lago joaquim cassiano, 55
 colégio batista
 76224089 cunha / pb",paraíba
@@ -387,7 +387,7 @@ diamante
 Aylla Alves,029.371.854-79,7,2016-09-24,"morro marina jesus, 356
 flavio de oliveira
 67829-955 cirino / ma",alagoas
-Dra. Ana Vitória Camargo,410.369.582-05,16,2007-10-17,Endereço não informado,rio de janeiro
+Dra. Ana Vitória Camargo,410.369.582-05,16,2007-10-17,Endereço inválido,rio de janeiro
 Heloisa Jesus,758.031.496-75,14,2010-08-08,"estação de mendes
 jardim são josé
 14725613 almeida / rj",minas gerais
@@ -397,7 +397,7 @@ embaúbas
 Maria Julia Da Paz,026.983.147-96,13,2011-03-24,"lago de melo, 820
 são tomaz
 65774-238 monteiro / am",alagoas
-Ana Liz Alves,349.615.280-05,5,2019-02-28,Endereço não informado,ceará
+Ana Liz Alves,349.615.280-05,5,2019-02-28,Endereço inválido,ceará
 Brenda Casa Grande,123.754.869-19,10,2013-12-26,"núcleo sabrina gomes, 202
 saudade
 26864449 sousa de souza / ap",rio grande do norte
@@ -413,7 +413,7 @@ ademar maldonado
 Isabela Almeida,091.574.382-50,5,2019-07-03,"pátio de pimenta, 69
 jardim alvorada
 25142-336 caldeira da praia / ce",minas gerais
-Luiza Silveira,237.048.159-50,6,2018-06-15,Endereço não informado,roraima
+Luiza Silveira,237.048.159-50,6,2018-06-15,Endereço inválido,roraima
 Maria Isis Sampaio,049.832.516-42,18,2006-05-01,"esplanada maria júlia alves, 21
 vila do pombal
 61725926 das neves / pi",alagoas
@@ -474,7 +474,7 @@ pantanal
 Rafaela Moraes,658.409.723-47,6,2018-02-17,"avenida de cardoso
 esplanada
 81772-508 aragão dos dourados / ro",goiás
-Lucca Câmara,905.713.642-25,12,2012-05-15,Endereço não informado,são paulo
+Lucca Câmara,905.713.642-25,12,2012-05-15,Endereço inválido,são paulo
 ,465.720.931-07,6,2017-09-29,"praça theodoro fernandes
 castelo
 34903-010 da mata da mata / pr",são paulo
@@ -496,7 +496,7 @@ santa rosa
 Maria Luiza Marques,162.097.835-03,13,2010-10-21,"parque cardoso, 42
 engenho nogueira
 50747465 sousa do norte / rn",roraima
-Sr. Juan Vargas,617.403.285-07,13,2010-09-30,Endereço não informado,Desconhecido
+Sr. Juan Vargas,617.403.285-07,13,2010-09-30,Endereço inválido,Desconhecido
 Levi Nascimento,137.629.485-00,15,2009-06-04,"vila bernardo vieira, 61
 barão homem de melo 1ª seção
 05073-598 da paz / go",piauí
@@ -512,14 +512,14 @@ vila das oliveiras
 Srta. Gabriela Ferreira,103.672.859-59,12,2011-12-20,"avenida de correia, 3
 cdi jatoba
 51239-586 da cruz / rj",pará
-Raul Campos,723.964.851-64,8,2016-04-28,Endereço não informado,Desconhecido
+Raul Campos,723.964.851-64,8,2016-04-28,Endereço inválido,Desconhecido
 Eloá Rodrigues,752.108.639-21,12,2012-08-24,"estação mendonça, 27
 custodinha
 45897783 lima / mg",rio de janeiro
 Arthur Martins,841.967.203-31,10,2014-01-09,"vereda yasmin souza, 1
 glória
 21700812 oliveira / al",sergipe
-Sr. Levi Duarte,230.471.568-08,9,2015-07-18,Endereço não informado,tocantins
+Sr. Levi Duarte,230.471.568-08,9,2015-07-18,Endereço inválido,tocantins
 Dra. Sara Siqueira,680.294.537-10,14,2010-03-02,"via de cardoso, 20
 vila maria
 96960609 oliveira / sc",pará
@@ -562,7 +562,7 @@ novo das industrias
 Maria Flor Machado,610.289.734-03,15,,"favela lopes, 77
 nova floresta
 72224-070 gomes da mata / rj",acre
-Beatriz Marques,790.845.632-47,5,2018-09-12,Endereço não informado,acre
+Beatriz Marques,790.845.632-47,5,2018-09-12,Endereço inválido,acre
 Luna Vasconcelos,092.186.374-87,6,2018-04-05,"viaduto de lima, 37
 taquaril
 29747-528 martins / es",rio grande do sul
@@ -620,8 +620,8 @@ vila são dimas
 Clarice Cassiano,137.865.409-93,7,2016-11-28,"quadra de andrade, 340
 barroca
 86683400 alves / ac",rio grande do norte
-Maya Vargas,062.145.789-20,15,2009-05-12,Endereço não informado,tocantins
-Dante Rocha,827.194.063-50,14,2010-01-24,Endereço não informado,Desconhecido
+Maya Vargas,062.145.789-20,15,2009-05-12,Endereço inválido,tocantins
+Dante Rocha,827.194.063-50,14,2010-01-24,Endereço inválido,Desconhecido
 Sra. Letícia Gomes,257.348.910-88,18,2006-01-22,"vereda bruna vargas, 99
 santa isabel
 34724-620 rodrigues / pa",distrito federal
@@ -652,7 +652,7 @@ tupi b
 Oliver Santos,059.734.682-83,14,2009-10-12,"alameda marina fonseca, 20
 caetano furquim
 14088-399 cavalcanti verde / sp",rio de janeiro
-Emanuella Sousa,986.015.423-60,19,2005-01-21,Endereço não informado,rio de janeiro
+Emanuella Sousa,986.015.423-60,19,2005-01-21,Endereço inválido,rio de janeiro
 Bianca Abreu,463.528.091-89,16,2008-03-27,"ladeira melo, 221
 tupi a
 73216-173 araújo da prata / pe",amazonas
@@ -758,7 +758,7 @@ vila são joão batista
 Bento Albuquerque,739.485.026-92,6,,"vereda souza, 1
 vila engenho nogueira
 86277-469 cassiano / pe",roraima
-Rafaela Moura,482.517.096-01,14,2010-04-02,Endereço não informado,amazonas
+Rafaela Moura,482.517.096-01,14,2010-04-02,Endereço inválido,amazonas
 Ísis Aparecida,351.692.480-24,19,2005-05-16,"praia ravy pinto
 vila jardim alvorada
 35935257 pereira da mata / al",são paulo
@@ -768,14 +768,14 @@ parque são pedro
 Melina Siqueira,132.495.870-79,15,2009-07-09,"passarela lucas gabriel ribeiro, 191
 santo andré
 85883-960 aragão / rr",goiás
-Bernardo Costela,902.675.314-43,18,2006-06-27,Endereço não informado,bahia
+Bernardo Costela,902.675.314-43,18,2006-06-27,Endereço inválido,bahia
 Emilly Vieira,089.651.342-42,18,2005-12-24,"conjunto nogueira, 68
 vila madre gertrudes 1ª seção
 62299-402 sousa / pe",piauí
 Ágatha Vasconcelos,139.602.457-34,18,2006-05-29,"trecho de vieira, 42
 santa efigênia
 26460555 rocha / se",alagoas
-Lucas Gabriel Cardoso,861.294.037-04,17,2007-07-24,Endereço não informado,alagoas
+Lucas Gabriel Cardoso,861.294.037-04,17,2007-07-24,Endereço inválido,alagoas
 Benício Correia,358.604.192-60,8,2016-04-09,"lagoa julia cunha, 45
 mirante
 03048693 gomes / sp",tocantins
@@ -797,7 +797,7 @@ são benedito
 Davi Lucca Fernandes,415.379.682-46,6,2018-01-23,"campo peixoto, 61
 canadá
 21865319 da cruz da praia / sc",bahia
-Giovanna Costa,980.574.162-11,9,2015-02-25,Endereço não informado,Desconhecido
+Giovanna Costa,980.574.162-11,9,2015-02-25,Endereço inválido,Desconhecido
 Brenda Lopes,197.630.485-75,12,2012-01-28,"viaduto valentina leão
 tiradentes
 98545476 da paz / rj",rio de janeiro
@@ -825,11 +825,11 @@ vila nova gameleira 1ª seção
 Ana Lívia Fogaça,072.638.514-07,13,2011-03-20,"distrito de ramos, 3
 conjunto jardim filadélfia
 21892329 sousa do amparo / rr",rio de janeiro
-Maria Julia Aparecida,247.195.068-01,7,2016-09-22,Endereço não informado,pará
+Maria Julia Aparecida,247.195.068-01,7,2016-09-22,Endereço inválido,pará
 Isabela Azevedo,962.813.570-86,13,2011-06-28,"vereda da conceição, 487
 mantiqueira
 90394819 cunha das flores / ro",rio de janeiro
-Isabella Das Neves,385.217.064-80,7,2016-11-11,Endereço não informado,minas gerais
+Isabella Das Neves,385.217.064-80,7,2016-11-11,Endereço inválido,minas gerais
 Maria Vitória Nascimento,650.281.739-40,15,2009-01-01,"praça de alves, 17
 conjunto jatoba
 71394-306 gonçalves / pe",rio de janeiro
@@ -839,7 +839,7 @@ caetano furquim
 Yuri Mendonça,802.564.391-33,17,2006-10-10,"vale ana da rosa, 709
 acaba mundo
 14972265 porto do galho / rs",roraima
-Caio Marques,104.782.695-01,7,2017-04-10,Endereço não informado,são paulo
+Caio Marques,104.782.695-01,7,2017-04-10,Endereço inválido,são paulo
 Antonella Garcia,748.213.695-91,10,2014-03-28,"lagoa kaique aragão, 84
 novo das industrias
 71903-145 vasconcelos / pa",amazonas
@@ -975,7 +975,7 @@ barreiro
 Bianca Barbosa,708.269.145-94,5,2019-04-05,"trevo maya pimenta, 23
 minaslandia
 21667827 monteiro / ro",goiás
-Pietro Da Costa,013.567.248-17,14,2009-10-11,Endereço não informado,são paulo
+Pietro Da Costa,013.567.248-17,14,2009-10-11,Endereço inválido,são paulo
 Eduarda Monteiro,841.950.762-85,10,2014-06-13,"lagoa de peixoto, 93
 nazare
 63384-022 siqueira do amparo / rn",roraima
@@ -1018,7 +1018,7 @@ comiteco
 Pietra Rezende,716.492.503-80,9,2014-11-24,"fazenda novaes, 69
 santa tereza
 47385-517 macedo de novaes / pe",mato grosso
-Bianca Rios,327.058.961-12,7,2017-04-26,Endereço não informado,Desconhecido
+Bianca Rios,327.058.961-12,7,2017-04-26,Endereço inválido,Desconhecido
 Maria Flor Correia,532.049.176-06,13,2011-01-10,"feira de correia
 aparecida
 31994210 borges da serra / rr",paraná
@@ -1031,7 +1031,7 @@ estrela do oriente
 Sr. Yago Leão,523.490.681-70,9,2015-05-07,"esplanada fernandes, 965
 túnel de ibirité
 03131995 ramos / go",espírito santo
-Francisco Gomes,492.076.183-03,12,2012-01-08,Endereço não informado,pernambuco
+Francisco Gomes,492.076.183-03,12,2012-01-08,Endereço inválido,pernambuco
 Júlia Barros,324.518.790-41,14,2010-01-17,"aeroporto laís fogaça, 85
 corumbiara
 68118-730 da mota do oeste / ce",Desconhecido
@@ -1098,8 +1098,8 @@ paquetá
 Sabrina Rocha,839.756.021-12,12,,"área samuel machado, 38
 nazare
 15955-794 correia de fonseca / pa",pernambuco
-Enzo Gabriel Da Cruz,460.923.758-00,7,2017-08-28,Endereço não informado,rio grande do sul
-Asafe Cunha,836.409.721-04,7,2016-10-10,Endereço não informado,bahia
+Enzo Gabriel Da Cruz,460.923.758-00,7,2017-08-28,Endereço inválido,rio grande do sul
+Asafe Cunha,836.409.721-04,7,2016-10-10,Endereço inválido,bahia
 Yuri Câmara,534.182.967-00,15,2009-05-28,"área silva, 48
 fazendinha
 84547-463 correia do campo / pb",amazonas
@@ -1115,7 +1115,7 @@ vila nova gameleira 1ª seção
 Sr. Murilo Novaes,086.271.453-26,15,2009-07-25,"sítio silveira, 617
 vila mantiqueira
 46075-844 cunha / df",pará
-Diego Garcia,507.621.384-08,6,2017-11-29,Endereço não informado,sergipe
+Diego Garcia,507.621.384-08,6,2017-11-29,Endereço inválido,sergipe
 Davi Lucas Castro,056.831.724-62,10,2014-01-19,"parque davi miguel barbosa, 3
 salgado filho
 17639-867 lopes / ac",são paulo
@@ -1128,7 +1128,7 @@ maria tereza
 Sophia Santos,146.570.398-57,13,2011-08-26,"jardim anna liz sampaio, 96
 taquaril
 66044222 rodrigues da serra / df",paraná
-Sr. Henry Gabriel Da Mata,087.214.965-01,6,2017-11-10,Endereço não informado,Desconhecido
+Sr. Henry Gabriel Da Mata,087.214.965-01,6,2017-11-10,Endereço inválido,Desconhecido
 Sra. Joana Teixeira,375.908.264-56,19,2005-08-05,"lago melo, 65
 são jorge 2ª seção
 40773576 da mata de montenegro / pe",piauí
@@ -1177,7 +1177,7 @@ manacas
 Augusto Ferreira,851.376.409-48,19,2005-03-28,"loteamento sampaio, 15
 capitão eduardo
 92345334 teixeira do galho / to",mato grosso do sul
-Luiz Otávio Dias,182.749.650-94,7,2017-07-29,Endereço não informado,Desconhecido
+Luiz Otávio Dias,182.749.650-94,7,2017-07-29,Endereço inválido,Desconhecido
 Théo Oliveira,816.495.372-55,6,2017-12-06,"residencial rodrigues, 328
 santa rosa
 88414-551 souza / ro",rio grande do norte
@@ -1187,7 +1187,7 @@ coração de jesus
 Rhavi Aragão,897.612.304-22,12,2012-04-05,"colônia de cavalcante, 53
 vila fumec
 11418-185 oliveira / al",rio de janeiro
-Eloah Rezende,120.538.649-15,13,2011-06-12,Endereço não informado,rio grande do norte
+Eloah Rezende,120.538.649-15,13,2011-06-12,Endereço inválido,rio grande do norte
 Esther Borges,745.019.386-84,7,2017-02-19,"passarela viana, 5
 araguaia
 98001-127 guerra verde / pb",piauí
@@ -1203,7 +1203,7 @@ são cristóvão
 Raul Fonseca,476.983.512-46,12,2011-10-31,"favela melissa sampaio, 668
 jardim américa
 67301-120 macedo / pe",rondônia
-Sr. Breno Da Cruz,758.192.043-79,17,2007-03-26,Endereço não informado,pará
+Sr. Breno Da Cruz,758.192.043-79,17,2007-03-26,Endereço inválido,pará
 Dra. Ana Júlia Farias,219.074.635-34,13,2011-08-24,"viaduto caldeira, 9
 jardim alvorada
 86270-555 vasconcelos / ba",paraná
@@ -1255,7 +1255,7 @@ ouro minas
 Sr. Antony Albuquerque,501.672.984-02,9,2015-04-20,"quadra da luz
 caetano furquim
 26854443 rezende / mg",paraná
-Hadassa Rodrigues,245.073.689-10,15,2009-01-04,Endereço não informado,rio grande do sul
+Hadassa Rodrigues,245.073.689-10,15,2009-01-04,Endereço inválido,rio grande do sul
 Davi Rezende,196.543.087-20,8,2016-01-27,"fazenda andrade, 38
 nova gameleira
 59850024 lopes / sc",rondônia
@@ -1271,8 +1271,8 @@ virgínia
 Alícia Da Conceição,501.837.926-02,17,2007-08-27,"chácara de guerra, 6
 barão homem de melo 3ª seção
 69793-184 borges de ribeiro / ce",rondônia
-Helena Porto,362.849.150-98,6,2017-12-28,Endereço não informado,mato grosso do sul
-Maria Vitória Da Mata,289.604.735-29,10,2014-04-29,Endereço não informado,sergipe
+Helena Porto,362.849.150-98,6,2017-12-28,Endereço inválido,mato grosso do sul
+Maria Vitória Da Mata,289.604.735-29,10,2014-04-29,Endereço inválido,sergipe
 Luiz Henrique Pinto,042.385.791-60,18,2006-03-19,"passarela pacheco, 64
 vila da paz
 56659117 sá de camargo / ac",distrito federal
@@ -1312,7 +1312,7 @@ vila do pombal
 Sr. Raul Ramos,695.128.074-67,15,2009-04-20,"largo de castro, 81
 solimoes
 02179160 macedo / rn",mato grosso do sul
-Leonardo Azevedo,184.076.925-49,17,2007-07-26,Endereço não informado,amazonas
+Leonardo Azevedo,184.076.925-49,17,2007-07-26,Endereço inválido,amazonas
 Rodrigo Vieira,657.082.491-02,7,2017-04-24,"loteamento vasconcelos, 41
 camargos
 48234-814 rios / rr",Desconhecido
@@ -1406,7 +1406,7 @@ guaratã
 Yan Sales,619.380.457-93,16,2008-01-23,"chácara sara oliveira, 458
 vila suzana segunda seção
 10900899 da rosa das flores / pr",rondônia
-Hadassa Borges,634.089.725-83,17,2006-09-27,Endereço não informado,pernambuco
+Hadassa Borges,634.089.725-83,17,2006-09-27,Endereço inválido,pernambuco
 Gael Henrique Almeida,408.231.965-42,10,2014-04-23,"condomínio de cardoso, 77
 são salvador
 78344780 jesus / pa",mato grosso do sul
@@ -1452,7 +1452,7 @@ araguaia
 Srta. Maria Araújo,324.069.815-33,17,2007-04-25,"viela de câmara, 77
 vila independencia 3ª seção
 69153-435 cavalcante da praia / am",mato grosso do sul
-Mariah Ramos,271.490.365-70,5,,Endereço não informado,roraima
+Mariah Ramos,271.490.365-70,5,,Endereço inválido,roraima
 Anthony Gabriel Sales,689.234.715-00,8,2016-04-01,"loteamento kevin monteiro
 aguas claras
 74395361 montenegro de goiás / ma",amapá
@@ -1474,8 +1474,8 @@ são vicente
 Lucca Casa Grande,420.536.897-65,11,2013-09-01,"praça ana lívia da conceição, 85
 flavio marques lisboa
 38414436 da costa / rr",são paulo
-Luana Montenegro,764.183.052-80,8,2016-01-20,Endereço não informado,rio grande do norte
-Pedro Andrade,259.684.731-00,19,2005-04-18,Endereço não informado,rio grande do norte
+Luana Montenegro,764.183.052-80,8,2016-01-20,Endereço inválido,rio grande do norte
+Pedro Andrade,259.684.731-00,19,2005-04-18,Endereço inválido,rio grande do norte
 Bento Cassiano,201.549.367-07,12,2012-02-25,"via joão felipe cirino, 7
 conjunto minas caixa
 24231-890 silveira / to",paraíba
@@ -1488,14 +1488,14 @@ jardim do vale
 Cauã Das Neves,943.106.572-06,11,2013-02-27,"residencial nascimento
 santa rita
 98523358 das neves verde / es",minas gerais
-,374.028.691-13,8,2015-09-10,Endereço não informado,paraíba
+,374.028.691-13,8,2015-09-10,Endereço inválido,paraíba
 ,503.864.279-92,9,2015-09-01,"viaduto lucas gabriel campos
 jardim do vale
 54031579 pimenta / ms",paraná
 Sarah Ribeiro,439.786.512-46,9,2015-06-03,"vila da cruz, 5
 fernão dias
 48697839 sales / sc",alagoas
-Dra. Mariana Siqueira,283.496.057-74,16,2008-07-19,Endereço não informado,piauí
+Dra. Mariana Siqueira,283.496.057-74,16,2008-07-19,Endereço inválido,piauí
 Renan Pires,947.156.802-11,13,2011-05-14,"alameda de rocha, 393
 conjunto celso machado
 66262-784 marques / ap",pará
@@ -1517,7 +1517,7 @@ são jorge 2ª seção
 Hadassa Aragão,693.271.854-55,7,2017-07-24,"estrada sales
 vila da amizade
 70106-251 borges / ac",pernambuco
-Marina Das Neves,063.178.529-95,17,2006-10-01,Endereço não informado,mato grosso do sul
+Marina Das Neves,063.178.529-95,17,2006-10-01,Endereço inválido,mato grosso do sul
 ,618.590.327-02,5,2019-06-18,"quadra rafaela siqueira, 6
 cidade nova
 01565-146 ferreira / se",minas gerais
@@ -1575,7 +1575,7 @@ venda nova
 Isadora Mendonça,107.238.456-62,18,2006-04-09,"travessa melo, 67
 vila da luz
 58033128 azevedo do oeste / sp",Desconhecido
-Olivia Rezende,087.623.514-35,11,2013-08-30,Endereço não informado,Desconhecido
+Olivia Rezende,087.623.514-35,11,2013-08-30,Endereço inválido,Desconhecido
 Joaquim Souza,403.728.196-13,8,2016-03-11,"feira azevedo, 599
 nova cintra
 31663-976 da cruz da prata / al",sergipe
@@ -1585,8 +1585,8 @@ cônego pinheiro 1ª seção
 Ravi Cavalcante,317.948.065-39,8,2016-03-10,"praça de dias, 7
 castelo
 23877-918 pinto / ce",Desconhecido
-Brenda Vargas,950.714.682-20,11,,Endereço não informado,são paulo
-Antony Caldeira,346.578.109-01,13,,Endereço não informado,maranhão
+Brenda Vargas,950.714.682-20,11,,Endereço inválido,são paulo
+Antony Caldeira,346.578.109-01,13,,Endereço inválido,maranhão
 Luiz Fernando Dias,184.320.579-32,10,2013-12-29,"vereda de ferreira, 76
 cruzeiro
 23294-846 freitas / sp",paraná
@@ -1635,7 +1635,7 @@ bairro das indústrias ii
 Julia Gonçalves,613.740.598-20,17,2006-10-14,"passarela de pereira, 3
 ipe
 96868-707 cardoso / ba",mato grosso do sul
-Pedro Henrique Barbosa,460.812.597-49,6,2017-09-13,Endereço não informado,tocantins
+Pedro Henrique Barbosa,460.812.597-49,6,2017-09-13,Endereço inválido,tocantins
 Srta. Liz Albuquerque,802.457.631-71,15,2009-07-19,"jardim de monteiro, 32
 vila copacabana
 45532-947 fogaça de campos / to",minas gerais
@@ -1771,7 +1771,7 @@ renascença
 Renan Machado,903.721.856-30,6,,"conjunto andré rezende, 5
 solimoes
 44546-548 andrade / rj",sergipe
-,960.271.385-21,11,,Endereço não informado,espírito santo
+,960.271.385-21,11,,Endereço inválido,espírito santo
 Sra. Eloá Das Neves,896.342.507-00,5,,"viela asafe silveira, 62
 vila são joão batista
 88714-375 ribeiro / se",rio grande do norte
@@ -1802,7 +1802,7 @@ vila paraíso
 Yan Cirino,749.532.861-46,6,2018-08-24,"colônia de mendes, 6
 vila primeiro de maio
 75474625 caldeira / go",santa catarina
-Gael Pastor,106.984.732-13,9,2014-10-22,Endereço não informado,piauí
+Gael Pastor,106.984.732-13,9,2014-10-22,Endereço inválido,piauí
 ,243.701.958-88,19,,"esplanada de viana, 8
 jardim dos comerciarios
 29896733 fonseca das pedras / rr",mato grosso
@@ -1821,7 +1821,7 @@ serra do curral
 Sr. Igor Da Mota,120.975.634-06,5,2019-07-07,"parque gomes, 3
 são tomaz
 82610508 nunes / sc",paraná
-Asafe Rios,192.473.058-88,6,,Endereço não informado,maranhão
+Asafe Rios,192.473.058-88,6,,Endereço inválido,maranhão
 Dr. Lorenzo Castro,043.275.981-60,13,2011-02-25,"área anthony cardoso, 23
 madri
 34771425 caldeira das pedras / pr",amazonas
@@ -1855,7 +1855,7 @@ são tomaz
 Mariah Castro,286.537.910-86,10,2013-10-29,"lago leão, 36
 acaiaca
 67870-666 borges / rj",ceará
-,078.426.395-74,16,2007-12-24,Endereço não informado,são paulo
+,078.426.395-74,16,2007-12-24,Endereço inválido,são paulo
 ,053.278.649-10,7,2016-10-01,"morro dias, 632
 vista alegre
 57491803 novais da mata / rj",alagoas
@@ -1895,7 +1895,7 @@ jardim américa
 Arthur Miguel Alves,536.892.074-10,8,2016-01-09,"via théo pastor, 74
 minas brasil
 97405843 carvalho do oeste / rj",paraná
-Dr. Joaquim Novais,613.789.054-66,7,2016-11-24,Endereço não informado,rio grande do sul
+Dr. Joaquim Novais,613.789.054-66,7,2016-11-24,Endereço inválido,rio grande do sul
 Caleb Da Conceição,360.427.158-44,7,2017-01-03,"distrito araújo, 15
 parque são josé
 25168592 moura alegre / rr",rio grande do sul
@@ -1905,7 +1905,7 @@ vila inestan
 Ana Vitória Rodrigues,291.645.738-00,17,2007-03-16,"praia da mata, 38
 nova gameleira
 80116-869 cassiano / to",amapá
-Srta. Hellena Peixoto,259.614.380-15,13,2011-05-05,Endereço não informado,maranhão
+Srta. Hellena Peixoto,259.614.380-15,13,2011-05-05,Endereço inválido,maranhão
 Dr. Apollo Araújo,583.602.471-53,8,2015-10-14,"praça cirino, 31
 cabana do pai tomás
 73289943 teixeira de silveira / pb",sergipe
@@ -1927,7 +1927,7 @@ salgado filho
 Arthur Miguel Sales,749.328.051-79,13,2011-04-26,"avenida melo, 87
 andiroba
 66220767 albuquerque da praia / pi",minas gerais
-Enzo Almeida,501.472.936-34,18,2006-06-09,Endereço não informado,Desconhecido
+Enzo Almeida,501.472.936-34,18,2006-06-09,Endereço inválido,Desconhecido
 Dra. Ana Laura Da Rocha,308.754.269-56,19,2004-10-18,"vale de cirino, 5
 jardinópolis
 39389740 almeida de minas / ac",tocantins
@@ -1937,7 +1937,7 @@ manacas
 Léo Cavalcante,514.869.270-76,18,2005-09-08,"vila almeida, 93
 ademar maldonado
 56267-837 sampaio / ce",rio grande do sul
-Mathias Novaes,871.645.093-01,18,2006-02-28,Endereço não informado,são paulo
+Mathias Novaes,871.645.093-01,18,2006-02-28,Endereço inválido,são paulo
 Yuri Azevedo,496.203.517-70,8,2016-08-03,"lagoa bárbara nogueira, 31
 ventosa
 40667-111 cavalcante / rr",amapá
@@ -1983,7 +1983,7 @@ vera cruz
 Ana Laura Cirino,518.623.094-42,9,2015-02-24,"rua novaes, 79
 comiteco
 19677681 pacheco / rj",maranhão
-Dr. Davi Lucas Das Neves,921.370.864-50,5,2019-02-17,Endereço não informado,distrito federal
+Dr. Davi Lucas Das Neves,921.370.864-50,5,2019-02-17,Endereço inválido,distrito federal
 Kevin Ramos,041.928.375-79,12,2012-05-12,"sítio rios, 301
 tirol
 18417-403 pacheco / ma",rio grande do sul
@@ -2005,7 +2005,7 @@ mala e cuia
 Sr. João Pedro Pimenta,724.169.305-16,6,2018-05-30,"recanto de teixeira
 jardinópolis
 69214-581 cassiano / rs",tocantins
-Kevin Das Neves,628.403.519-51,13,2011-05-16,Endereço não informado,rondônia
+Kevin Das Neves,628.403.519-51,13,2011-05-16,Endereço inválido,rondônia
 Maysa Rezende,378.469.125-00,7,2017-03-07,"distrito brenda andrade, 235
 petropolis
 33855766 rezende das pedras / se",goiás
@@ -2030,7 +2030,7 @@ Gabriela Barbosa,401.785.623-35,11,2013-01-11,"fazenda de moreira, 92
 Antônio Da Cunha,253.847.019-60,16,,"lago pacheco, 339
 maria tereza
 78742-964 sales / rs",pará
-Pietra Das Neves,360.912.854-24,18,,Endereço não informado,Desconhecido
+Pietra Das Neves,360.912.854-24,18,,Endereço inválido,Desconhecido
 ,815.960.327-40,10,2014-05-03,"vila de silveira, 14
 glória
 14136938 caldeira / pr",paraíba
@@ -2046,15 +2046,15 @@ milionario
 Henry Gabriel Campos,240.573.816-35,14,2010-01-02,"sítio de viana, 8
 mantiqueira
 88022-042 gonçalves grande / sc",bahia
-Vinícius Campos,736.428.019-78,13,2011-06-18,Endereço não informado,ceará
+Vinícius Campos,736.428.019-78,13,2011-06-18,Endereço inválido,ceará
 Thales Andrade,865.439.270-38,12,2012-03-18,"vila de marques, 199
 novo tupi
 72041-498 albuquerque de goiás / ma",distrito federal
 João Lucas Sampaio,851.037.962-95,11,2013-08-06,"largo de cunha, 55
 vila jardim montanhes
 21052-455 vasconcelos alegre / go",tocantins
-,176.025.394-43,17,2007-02-27,Endereço não informado,rondônia
-Dr. Lorenzo Viana,179.035.826-40,15,2009-01-15,Endereço não informado,mato grosso
+,176.025.394-43,17,2007-02-27,Endereço inválido,rondônia
+Dr. Lorenzo Viana,179.035.826-40,15,2009-01-15,Endereço inválido,mato grosso
 Kamilly Fonseca,490.235.617-16,18,2006-04-30,"setor de costela, 79
 conjunto lagoa
 87728-567 nunes das flores / rr",Desconhecido
@@ -2169,7 +2169,7 @@ vila jardim são josé
 Ian Dias,829.675.413-46,18,2006-04-21,"setor porto, 699
 dona clara
 65616317 cardoso do campo / pb",rondônia
-Bryan Vargas,617.835.902-03,18,2005-11-07,Endereço não informado,goiás
+Bryan Vargas,617.835.902-03,18,2005-11-07,Endereço inválido,goiás
 Dra. Manuela Carvalho,568.321.947-73,11,2012-10-21,"favela de câmara, 28
 pindorama
 95663496 viana / pe",pará
@@ -2224,11 +2224,11 @@ ambrosina
 Dra. Isadora Jesus,265.807.931-12,7,2017-06-26,"vereda de almeida, 57
 jardinópolis
 04608024 siqueira paulista / ap",rio grande do norte
-Yan Moura,932.578.460-29,13,2011-05-29,Endereço não informado,maranhão
+Yan Moura,932.578.460-29,13,2011-05-29,Endereço inválido,maranhão
 Dr. Luigi Camargo,416.397.028-22,12,2011-12-21,"viela freitas, 1
 coqueiros
 26303681 monteiro das pedras / pe",rio grande do sul
-,219.738.456-28,15,2008-11-04,Endereço não informado,pará
+,219.738.456-28,15,2008-11-04,Endereço inválido,pará
 Pietro Campos,784.936.012-50,6,2018-05-01,"jardim aparecida
 mangueiras
 54950-498 melo da serra / to",piauí
@@ -2259,8 +2259,8 @@ monte são josé
 Eduarda Duarte,572.081.963-03,5,2019-02-22,"residencial dante monteiro, 86
 santo antônio
 13896429 cavalcante da serra / es",bahia
-Bernardo Santos,835.924.106-60,5,2019-01-29,Endereço não informado,ceará
-Pedro Miguel Novaes,381.940.567-48,16,2008-07-31,Endereço não informado,distrito federal
+Bernardo Santos,835.924.106-60,5,2019-01-29,Endereço inválido,ceará
+Pedro Miguel Novaes,381.940.567-48,16,2008-07-31,Endereço inválido,distrito federal
 ,162.095.384-60,8,2016-07-14,"lago de sá, 795
 túnel de ibirité
 93441-562 nunes / rs",sergipe
@@ -2369,7 +2369,7 @@ pompéia
 ,256.103.498-42,18,2006-08-02,"avenida melina cavalcante, 2
 goiania
 59241847 silva / pi",mato grosso
-Sr. Raul Cassiano,587.931.426-09,16,2008-05-14,Endereço não informado,sergipe
+Sr. Raul Cassiano,587.931.426-09,16,2008-05-14,Endereço inválido,sergipe
 Sra. Luísa Da Conceição,728.103.645-08,7,2017-01-23,"sítio de alves, 27
 fernão dias
 80575414 lopes / rr",bahia
@@ -2421,7 +2421,7 @@ floramar
 Dr. Carlos Eduardo Monteiro,048.129.573-97,7,2016-09-16,"chácara stella pacheco, 1
 urca
 15630-681 guerra do norte / mt",amapá
-,647.239.851-82,5,,Endereço não informado,maranhão
+,647.239.851-82,5,,Endereço inválido,maranhão
 Mariane Caldeira,897.154.026-58,10,2014-05-14,"trevo evelyn casa grande
 calafate
 95450-515 silveira / sp",rio grande do norte
@@ -2533,14 +2533,14 @@ jardim leblon
 Sra. Mariah Machado,762.135.804-17,8,2015-11-14,"loteamento aurora marques
 são jorge 3ª seção
 74254474 barros da praia / ac",bahia
-Maria Isis Rios,791.580.432-41,14,2010-03-14,Endereço não informado,Desconhecido
+Maria Isis Rios,791.580.432-41,14,2010-03-14,Endereço inválido,Desconhecido
 Maria Vitória Barros,984.723.156-73,5,2019-04-16,"alameda pedro henrique peixoto, 1
 vila sumaré
 00855-619 albuquerque verde / sp",pernambuco
 Ayla Pacheco,508.326.971-68,12,2012-07-31,"lagoa de dias, 3
 vila são francisco
 13703-633 castro / mt",pernambuco
-Aurora Sampaio,465.203.178-53,8,2016-03-07,Endereço não informado,pernambuco
+Aurora Sampaio,465.203.178-53,8,2016-03-07,Endereço inválido,pernambuco
 Pietra Lima,715.920.346-16,11,2012-09-08,"vila clara caldeira, 25
 vila rica
 78146-321 da costa / se",rio de janeiro
