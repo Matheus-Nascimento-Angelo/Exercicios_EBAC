@@ -38,7 +38,7 @@ limite_baixo = Q1 - 1.5 * IQR
 limite_alto = Q3 + 1.5 * IQR
 
 outliers_iqr = df[(df['idade'] < limite_baixo) | (df['idade'] > limite_alto)] # Selecionando os valores Outliers;
-''' ^     ^^^^^^^^^^^^^Explicaçãod a linha a cima ^^^^^^^^^^^^^^
+''' ^     ^^^^^^^^^^^^^Explicação da linha a cima ^^^^^^^^^^^^^^
 
 Primeiro referenciamos o data frame 'df', abrimos colchetes indicando que selecionaremos apenas partes específicas do
 data frame, dentro dos colchetes, abrimos parentes para isolarmos a primeira operação lógica, que é:
