@@ -1,8 +1,6 @@
-from selectors import SelectSelector
 
 import pandas as pd
 import numpy as np
-from django.utils.http import escape_leading_slashes
 
 pd.set_option('display.width', None)
 pd.set_option('display.max_colwidth', None)
