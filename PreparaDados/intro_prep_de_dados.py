@@ -1,5 +1,5 @@
 import pandas as pd
-
+import matplotlib.pyplot as plt
 pd.set_option('display.width', None)
 df = pd.read_csv('C:\\Users\\mathe\\Documents\\estudos\\data-science\\Cientista_de_dados-EBAC\\materiais\\dados\\clientes-v2.csv')
 
@@ -33,4 +33,5 @@ print(f'Mostrando as estatísticas básicas dos dados:\n{df.describe()}')
 # Filtrando apenas as colunas pertinentes;
 df = df[['idade', 'data', 'estado', 'salario', 'nivel_educacao', 'numero_filhos', 'estado_civil', 'area_atuacao']]
 
-df.to_csv('clientes-v2-tratados.csv', index=False)
+
+
