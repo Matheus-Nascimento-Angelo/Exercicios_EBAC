@@ -32,6 +32,7 @@ print(f'Mostrando as estatísticas básicas dos dados:\n{df.describe()}')
 
 # Filtrando apenas as colunas pertinentes;
 df = df[['idade', 'data', 'estado', 'salario', 'nivel_educacao', 'numero_filhos', 'estado_civil', 'area_atuacao']]
+print(df.head().to_string())
 
-
+df.to_csv('clientes-v2-tratados.csv', index=False)
 
