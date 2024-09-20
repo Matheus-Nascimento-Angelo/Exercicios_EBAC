@@ -10,18 +10,18 @@ pd.set_option('display.width', None)
 df.drop('pais', axis=1, inplace=True) # Removendo a coluna pais;
 df.drop(2, axis=0, inplace=True) # Removendo a 3 linha;
 
-# Normalizar campos de texto;
+# Transformar os campos de texto para minúsculos;
 df['estado'] =  df['estado'].str.lower()
 df['nome'] = df['nome'].str.title()
 df['endereco'] = df['endereco'].str.lower()
 
-# Converter tipo de dados;
+# Converter tipo de dados do campo idade para inteiro;
 df['idade'] = df['idade'].astype(int)
 
 # Tratar valores nulos;
 df_fillna = df.fillna(0) # Substitui nulos;
 df_dropna = df.dropna() # Remove valores nulos;
-df_dropna4 = df.dropna(thresh=4) # Remove a linha ou coluna, caso tenha mais de 4 valores nulos;
+df_dropna4 = df.dropna(thresh=4) # Remove a linha ou coluna, caso não tenha ao menos 4 valores não nulos;
 df = df.dropna(subset='cpf') # Remove os registros com valores nulos na coluna cpf apenas;
 
 # Mostrando a ação dos diferentes tratamentos para valores nulos;
@@ -48,7 +48,8 @@ print(f'Qnt de registro removendo as duplicatas: \n{len(df)}')
 print(f'Dados limpos:\n{df.to_string()}')
 
 # Cria um novo Dataframe filtrando apenas as colunas desejadas;
-df_salva = df[['nome', 'cpf', 'idade', 'data', 'endereco', 'estado']]
+filtro = ['nome', 'cpf', 'idade', 'data', 'endereco', 'estado']
+df_salva = df[filtro]
 
 # Exporta o DataFrame como um arquivo csv;
 df_salva.to_csv('clientes_limpeza.csv', index=False) # index=False serve para não criar uma nova coluna de índice no novo dataframe;

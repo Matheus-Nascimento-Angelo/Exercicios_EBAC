@@ -5,7 +5,7 @@ def envia_arquivo():
     # Caminho do arquivo que vamos enviar;
     path = 'C:/Users/mathe/Desktop/data_cleaner/scripts/Planilha_base.xlsx'
 
-    # Envia arquivo;
+    # Envia arquivo (postando arquivos) ;
     '''url: endereço de postagem web, files: definição dos arquivos que deverão ser postados
     (cria um "dict" onde a chave se chama 'file', o valor é definido pelo método 'open()', 
     passamos então como argumento o 'path' do arquivo, e passamos também o argumento 'rb' que basicamente

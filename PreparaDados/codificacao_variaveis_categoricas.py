@@ -25,7 +25,7 @@ print(f'\n2 MÉTODO: DataFrame após codificação ordinal para "nivel_educacao"
 
 # 3 método cat.codes;
 df['mapa_area_atuacao'] = df['area_atuacao'].astype('category').cat.codes
-print(f'3 MÉTODO: DataFrame após transformar "area_ataucao" em códigos numéricos:\n {df.head()}\n')
+print(f'3 MÉTODO: DataFrame após transformar "area_atuacao" em códigos numéricos:\n {df.head()}\n')
 '''
 criamos uma nova coluna no dataframe chamada "mapa_area_atuacao" atribuímos a ela o resultado do processo de transformação dos valores da coluna original em
 tipo "category", dados desse tipo, são extremamente úteis pois fornecem "um campo para etiquetar os registros", após isso, o atributo "cat.codes" atribui a esse
@@ -35,12 +35,11 @@ tipo "category", dados desse tipo, são extremamente úteis pois fornecem "um ca
 # 4 método: Label Encoder;
 Label_encoder = LabelEncoder()
 df['mapa_estado'] = Label_encoder.fit_transform(df['estado'])
-print(f'DataFrame após aplicar o LabelEncoder em "estado": \n{df.head()}')
+print(f'4 MÉTODO: DataFrame após aplicar o LabelEncoder em "estado": \n{df.head()}')
 
 '''
 Método fit_transform(): fit = aprende ou se ajusta as categorias (valores únicos) presentes na coluna 'estado'.
 tranform = converte cada categoria aprendida no fit em um número inteiro com base em uma ordenação alfabética;
 após isso atribui a coluna 'mapa_estado' os resultados obtidos no transform;
 '''
-
-print(f'DataFrame após aplicar Label Encoder em "estado":\n{df.head()}')
+df.to_csv("clientes-v3-preparado.csv", index=False)
