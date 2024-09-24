@@ -14,6 +14,10 @@ entre o prefixo e categoria, coluna para nulos(opc) = categoria que conterá a q
 '''
 print(f'\n1 MÉTODO: DataFrame após a codificação one-hot para "estado_civil": \n{df.head()}')
 
+# método> Codificação ordinal para 'estado_civil';
+mapa_estado_civil = {'Casado':1, 'Solteiro':2, 'Divorciado':3, 'Viúvo':4}
+df['mapa_estado_civil'] = df['estado_civil'].map(mapa_estado_civil)
+
 # 2 método: Codificação ordinal para "nivel_educacao" (definindo valores numéricos para cada registro único do campo);
 mapa_nivel_educacao = {'Ensino Fundamental': 1, 'Ensino Médio': 2, 'Ensino Superior': 3, 'Pós-graduação': 4}
 df['mapa_nivel_educacao'] = df['nivel_educacao'].map(mapa_nivel_educacao) # Mapeando as variáveis quali a partir do mapa(dicionario) criado anteriormente;
