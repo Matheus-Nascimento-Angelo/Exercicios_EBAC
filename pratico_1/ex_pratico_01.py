@@ -58,13 +58,41 @@ print('\nDados após o tratamento\n')
 print(df.head(100).to_string())
 
 # Início da visualização dos dados;
+
+# Gráfico de dispersão;
 sns.jointplot(x='Nota', y='N_Avaliações', data=df, kind='scatter', alpha=0.5)
+plt.xlabel('Nota')
+plt.ylabel('Número de avaliações')
 plt.show()
 
+# Gráfico de calor (heatmap);
 corr = df[['Qtd_Vendidos_Cod', 'N_Avaliações', 'Material_Cod', 'Temporada_Cod']].corr()
-sns.heatmap(corr, annot=True, cmap='coolwarm')
+x_axis = ['Quantidades vendidas', 'Número de avaliações', 'Material', 'Temporada']
+sns.heatmap(corr, xticklabels=x_axis, yticklabels=x_axis,annot=True, cmap='coolwarm')
+plt.title('Correlação entre variáveis')
 plt.show()
 
+# Gráfico de barras;
+plt.figure(figsize=(10, 6))
+df['Material'][0:11].value_counts().plot(kind='bar', color='blue')
+plt.title('Distribuição dos dados no campo Material')
+plt.xlabel('Materiais')
+plt.ylabel('Total de aparições')
+plt.show()
 
+# Gráfico de pizza;
 
+y = df['Marca'][:11].value_counts()
+x = df['Marca'][:11].value_counts().index
 
+plt.figure(figsize=(10, 6))
+plt.pie(y, labels=x, autopct='%.1f%%', startangle=90)
+plt.title('Distribuição do campo Marcas, em porcentagem')
+plt.show()
+
+# Gráfico de densidade;
+plt.figure(figsize=(10, 6))
+sns.kdeplot(df['Preço'], fill=True, color='red')
+plt.title('Densidade do campo Preços')
+plt.xlabel('Preços')
+plt.show()
