@@ -21,7 +21,7 @@ plt.show()
 
 #--------------------------- gráfico de pizza
 plt.figure(figsize=(10, 6))
-plt.pie(y, labels=x, autopct='%.1f%%', startangle=90, ) # .pie(valores, categorias, número de casas decimais, angulo inicial do gráfico)
+plt.pie(y, labels=x, autopct='%.1f%%', startangle=90) # .pie(valores, categorias, número de casas decimais, angulo inicial do gráfico)
 plt.title('Distribuição do nível de educação')
 plt.show()
 
